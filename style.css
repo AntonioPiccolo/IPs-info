@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgb(76, 146, 44), rgb(115, 255, 0));
+    font-family: sans-serif;
+    color: white;
+}
+
+.input-box{
+    text-align: center;
+}
+
+.input-box h2{
+    margin: 20px;
+}
+
+.ip-name{
+    margin: 50px;
+}
+
